@@ -13,5 +13,10 @@
         android:layout_height="250dp"
         class="kr.co.tjoeun.fragment_20200920.fragments.FirstFragment"/>
 
+    <fragment
+        android:tag="secondFrag"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        class="kr.co.tjoeun.fragment_20200920.fragments.SecondFragment" />
 
 </LinearLayout>
